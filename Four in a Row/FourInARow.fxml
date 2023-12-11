@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FourInARowController">
+   <bottom>
+      <VBox alignment="TOP_CENTER" BorderPane.alignment="CENTER">
+         <children>
+            <HBox fx:id="buttonHBox" alignment="TOP_CENTER" prefHeight="30.0" prefWidth="350.0" />
+            <Button fx:id="clearButton" mnemonicParsing="false" onAction="#clearButtonPressed" text="Clear" />
+         </children>
+      </VBox>
+   </bottom>
+   <top>
+      <Pane fx:id="gameAreaPane" minHeight="300.0" minWidth="350.0" prefHeight="300.0" prefWidth="350.0" BorderPane.alignment="CENTER" />
+   </top>
+   <padding>
+      <Insets bottom="8.0" left="8.0" right="8.0" top="8.0" />
+   </padding>
+</BorderPane>
