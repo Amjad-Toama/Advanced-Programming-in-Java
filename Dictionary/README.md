@@ -1,4 +1,4 @@
-**Dictionary Project**
+#Dictionary Project
 
 Welcome to the Dictionary project implemented in JavaFX, designed to provide a seamless and user-friendly experience for managing your vocabulary. Whether you're starting with an empty dictionary or importing a file from a previous session, this application allows you to effortlessly add, remove, search, and update entries with ease.
 
