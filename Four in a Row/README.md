@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub description for your Four in a Row game project built using JavaFX:
-
----
-
 # JavaFX Four in a Row Game
 
 ⛓️ **Classic Connect Four game implemented in JavaFX for a fun and strategic gaming experience.**
@@ -16,13 +12,9 @@ Certainly! Here's a GitHub description for your Four in a Row game project built
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/your-username/javafx-four-in-a-row.git
-   ```
-
 2. **Run the Game:**
 
-   Open the project in your preferred Java IDE with JavaFX support. Run the `FourInARowApp.java` file to start the game.
+   Open the project in your preferred Java IDE with JavaFX support. Run the `FourInARow.java` file to start the game.
 
 ## Gameplay
 
@@ -38,16 +30,5 @@ Certainly! Here's a GitHub description for your Four in a Row game project built
 
 Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request. Refer to the [contributing guidelines](CONTRIBUTING.md) for more details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to the JavaFX community for their valuable resources and support.
-
 🎮 Ready to Connect Four? Enjoy the game!
 
----
-
-Feel free to customize this description to better fit your project and its unique features. Add any additional information that you think would be relevant or engaging for potential contributors and users.
