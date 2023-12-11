@@ -1,4 +1,4 @@
-**Concurrency-Enabled Random Value Summation Project**
+# Concurrency-Enabled Random Value Summation Project
 
 Welcome to the Concurrency-Enabled Random Value Summation project, where we explore the power of concurrent programming in Java. This project prompts the user to specify the number of values to randomly generate and then allows them to choose the number of threads for concurrent summation.
 
