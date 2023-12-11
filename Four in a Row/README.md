@@ -21,11 +21,6 @@
 - Two players take turns dropping colored discs into a vertically suspended grid.
 - The first player to connect four of their discs in a row (horizontally, vertically, or diagonally) wins the game.
 
-## Customization
-
-- Experiment with different board sizes and themes for a personalized gaming experience.
-- Fine-tune game settings to match your preferred level of challenge.
-
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request. Refer to the [contributing guidelines](CONTRIBUTING.md) for more details.
